@@ -1,6 +1,9 @@
 # Maquette du site
 
-![maquette](./design--dark.png)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; margin-bottom: 16px">
+  <img src="./assets/img/design--dark.png" alt="Version dark de la maquette" />
+  <img src="./assets/img/design--light.png" alt="Version light de la maquette" />
+</div>
 
 Cette maquette a été réalisée avec Figma. Pour ouvrir le fichier, cliquer [ici](https://www.figma.com/file/wBZoRQ0q8Nl7pIHrFfp1Rz/ETAT?node-id=31%3A47).
 
