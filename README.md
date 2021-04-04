@@ -20,19 +20,60 @@ Si vous souhaitez suggérer une nouvelle fonctionnalité, ouvrez un [issue](http
 
 ### Données
 
- * [Annuaire Sites Publics Senegal](https://github.com/senegalouvert/annuaire-sites-publics-senegal)
+* [Annuaire Sites Publics Senegal](https://github.com/senegalouvert/annuaire-sites-publics-senegal)
+
+## Bien Débuté
+
+Tout d'abord, exécutez le serveur de développement:
+
+```bash
+git clone https://github.com/Code-for-Senegal/etat.git
+cd etat
+npm install
+npm run dev
+```
+
+Ouvrir [http://localhost:3000](http://localhost:3000) avec votre navigateur pour voir le résultat.
+
+## Apprendre d'avantage sur Next.js
+
+Pour en savoir plus sur Next.js, consultez les ressources suivantes:
+
+* [Documentation Next.js](https://nextjs.org/docs) - en savoir plus sur les fonctionnalités et l'API de Next.js.
+* [Apprenez Next.js](https://nextjs.org/learn) - un didacticiel interactif Next.js.
+
+Vous pouvez consulter [le dépôt Next.js GitHub](https://github.com/vercel/next.js/) - vos commentaires et contributions sont les bienvenus!
+
+## Générer votre CSS
+
+vous pouvez utiliser l'outil CLI Tailwind pour générer votre CSS
+
+```bash
+npm run tailwindcss
+```
+
+## Apprendre d'avantage sur Tailwindcss
+
+Pour en savoir plus sur Tailwindcss, consultez les ressources suivantes:
+
+* [Documentation Tailwindcss](https://tailwindcss.com/docs)
+
+## Maquette du site
+Version 'Dark'             |  Version 'Light'
+:-------------------------:|:-------------------------:
+[![dark-maquette](./design/assets/img/design--dark-xl.png)](design/README.md)  |  [![light-maquette](./design/assets/img/design--light-xl.png)](design/README.md)
 
 ## Déploiement
 
 Nous privilégions ces services gratuits.
 
- * [Netlify](https://www.netlify.com)
- * [Github Pages](https://pages.github.com)
- * [Heroku](https://www.heroku.com)
+* [Netlify](https://www.netlify.com)
+* [Github Pages](https://pages.github.com)
+* [Heroku](https://www.heroku.com)
 
 ### Langages de programmation
 
- * Libre à vous de choisir
+* Libre à vous de choisir
 
 ## License
 
